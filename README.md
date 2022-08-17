@@ -1,4 +1,4 @@
-# 📱taskList-reactNative📱
+# 📱Task List📱
 
 Simple React Native application used to learn the basics.
 
